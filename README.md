@@ -32,19 +32,20 @@ After diving into the Boston Crime Dataset, we can clearly see the trends and re
 3. Drivers should obey the traffic regularizations and buy the car insurance.  
 4. Residents and travellers should avoid going out at late night.  
 #### Summary:  
-I use the Spark SQL to clean and parse the Boston Crime Dataset. Analyze the relations and trends and possible reasons between the types of offenses and locations. Provide advice for the police, residents and travellers. 
+I use the Spark SQL to clean and parse the Boston Crime Dataset. Analyze the relations and trends and possible reasons between the types of offenses and locations. Provide advice for the police, residents and travellers.   
 
-## 3. Weather data collection:
-Collect data from https://www.ncdc.noaa.gov/cdo-web/ from 2015-06-01 to 2021-04-30
-
-## 4. Analysis of weather and Crimes-Motor Vehicle Accident
-In this part,
-(1) Analysis relation between temperature and motor vehicle accident,
-(2) Analysis relation between precipitation and motor vehicle accident,
-(3) Analysis relation between wind speed and motor vehicle accident,
-(4) Analysis relation between extreme weather(fog,hail,glaze,smoke) and motor vehicle accident,
-(5) Analysis relation between snow all and motor vehicle accident.
-#### Conclusions
-(1) Number of motor vehicle accident doesnt't have same trends with temperature, but it has same trends with the number of all crimes.
-(2) Precipitation, wind speed and extreme weather don't have impact on motor vehicle accident.
+## 3. Weather data collection:  
+(1) Collecting data from https://www.ncdc.noaa.gov/cdo-web/ from 2015-06-01 to 2021-04-30,  
+(2) converting all data to the proper data type,  
+(3) Filling null blanks.  
+## 4. Analysis of weather and Crimes-Motor Vehicle Accident  
+In this part,  
+(1) Analysis relation between temperature and motor vehicle accident,  
+(2) Analysis relation between precipitation and motor vehicle accident,  
+(3) Analysis relation between wind speed and motor vehicle accident,  
+(4) Analysis relation between extreme weather(fog,hail,glaze,smoke) and motor vehicle accident,  
+(5) Analysis relation between snow all and motor vehicle accident.  
+#### Conclusions  
+(1) Number of motor vehicle accident doesnt't have same trends with temperature, but it has same trends with the number of all crimes.  
+(2) Precipitation, wind speed and extreme weather don't have impact on motor vehicle accident.  
 (3) 
