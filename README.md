@@ -1,5 +1,5 @@
 # Data-Analysis-of-Boston-Crime
-https://winnieshi.github.io/Data-Analysis-of-Boston-Crime/Data%20Analysis%20of%20Boston%20Crime.html
+Project code link: https://winnieshi.github.io/Data-Analysis-of-Boston-Crime/Data%20Analysis%20of%20Boston%20Crime.html
 
 The project includes four parts: 
 1. Boston crime data collection, 
