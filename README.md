@@ -40,12 +40,12 @@ I use the Spark SQL to clean and parse the Boston Crime Dataset. Analyze the rel
 (3) Filling null blanks.  
 ## 4. Analysis of weather and Crimes-Motor Vehicle Accident  
 In this part,  
-(1) Analysis relation between temperature and motor vehicle accident,  
-(2) Analysis relation between precipitation and motor vehicle accident,  
-(3) Analysis relation between wind speed and motor vehicle accident,  
-(4) Analysis relation between extreme weather(fog,hail,glaze,smoke) and motor vehicle accident,  
-(5) Analysis relation between snow all and motor vehicle accident.  
+(1) Analysis relation between temperature and number of motor vehicle accidents,  
+(2) Analysis relation between precipitation and number of motor vehicle accidents,  
+(3) Analysis relation between wind speed and number of motor vehicle accidents,  
+(4) Analysis relation between extreme weather(fog,hail,glaze,smoke) and number of motor vehicle accidents,  
+(5) Analysis relation between snow and number of motor vehicle accidents.  
 #### Conclusions  
 (1) Number of motor vehicle accident doesnt't have same trends with temperature, but it has same trends with the number of all crimes.  
 (2) Precipitation, wind speed and extreme weather don't have impact on motor vehicle accident.  
-(3) 
+(3) In the snowy days, number of motor vehicle accidents was less than others. 
